@@ -12,6 +12,7 @@ I made a version of this as not only a learning exercise, but as a QoL improveme
 
 ## To-Run
 1. Download "Quick-Sites.ps1"
-2. Right-click
-3. Run with PowerShell
-4. You may be expected to sign your final version of the file if using in production. https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-authenticodesignature?view=powershell-7.2
+2. Change defined domains array values into desired values
+3. Right-click
+4. Run with PowerShell
+5. You may be expected to sign your final version of the file if using in production. https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-authenticodesignature?view=powershell-7.2
